@@ -1,0 +1,26 @@
+{
+  "name": "volleystream",
+  "version": "0.0.1",
+  "description": "Landing page for volleystream.no",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tutturen@github.com/tutturen/Volleystream.no.git"
+  },
+  "author": "Thor Even Tutturen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tutturen/Volleystream.no/issues"
+  },
+  "homepage": "https://github.com/tutturen/Volleystream.no#readme",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "next": "^1.2.3",
+    "react": "^15.4.2"
+  }
+}
