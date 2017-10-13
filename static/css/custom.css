@@ -1,7 +1,7 @@
 .slide-down {
-	-webkit-animation: slide-bottom 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-	-moz-animation: slide-bottom 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-	animation: slide-bottom 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+  -webkit-animation: slide-bottom 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+  -moz-animation: slide-bottom 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+  animation: slide-bottom 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
 }
 
 .margin-right-4 {
@@ -9,14 +9,14 @@
 }
 
 .red-gradient {
-	background-image: -webkit-linear-gradient(left, #fe7a60, #fd5f60) !important;
-	background-image: -moz-linear-gradient(left, #fe7a60, #fd5f60) !important;
-	background-image: -o-linear-gradient(left, #fe7a60, #fd5f60) !important;
-	background-image: linear-gradient(to right, #fe7a60, #fd5f60) !important;
+  background-image: -webkit-linear-gradient(left, #fe7a60, #fd5f60) !important;
+  background-image: -moz-linear-gradient(left, #fe7a60, #fd5f60) !important;
+  background-image: -o-linear-gradient(left, #fe7a60, #fd5f60) !important;
+  background-image: linear-gradient(to right, #fe7a60, #fd5f60) !important;
 }
 
 .has-red-text {
-	color: #fe7a60 !important;
+  color: #fe7a60 !important;
 }
 
 .is-blue {
@@ -28,51 +28,51 @@
 }
 
 .volley-hero {
-	background-image: url('/static/images/volleyball-2.jpg') !important;
-	background-size: cover;
+  background-image: url('/static/images/volleyball-2.jpg') !important;
+  background-size: cover;
 }
 
 .flex-container {
-	max-width: 768px;
-	display: flex;
-	margin: auto;
-	flex-direction: column;
+  max-width: 768px;
+  display: flex;
+  margin: auto;
+  flex-direction: column;
 }
 
 .row-container {
-	display: flex;
-	flex-direction: row;
-	height: 150px;
-	max-height: 150px;
-	justify-content: space-around;
-	max-width: 768px;
-	flex-wrap: wrap;
-	margin: auto;
+  display: flex;
+  flex-direction: row;
+  height: 150px;
+  max-height: 150px;
+  justify-content: space-around;
+  max-width: 768px;
+  flex-wrap: wrap;
+  margin: auto;
 }
 
 .logo {
-	width: 100px;
-	max-height: 100px;
-	margin: 24px;
-	filter: grayscale(100%);
+  width: 80px;
+  max-height: 100px;
+  margin: 24px;
+  filter: grayscale(100%);
 }
 
 .phone-container {
-	margin-top: 120px;
-	height: 350px;
-	width: 430px;
-	min-width: 430px;
-	overflow: hidden;
+  margin-top: 120px;
+  height: 350px;
+  width: 430px;
+  min-width: 430px;
+  overflow: hidden;
 }
 
 .hero-text {
-	padding: 48px 0;
+  padding: 48px 0;
 }
 
 .is-special {
-	padding: 20px 60px 0px 60px;
-	display: flex;
-	flex-direction: row;
-	align-items: space-around;
-	justify-content: space-around;
+  padding: 20px 60px 0px 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: space-around;
+  justify-content: space-around;
 }

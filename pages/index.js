@@ -5,7 +5,6 @@ import Hero from '../components/Hero';
 import Logo from '../components/Logo';
 
 class App extends React.Component {
-
   constructor(props) {
     super(props);
     this.state = {
@@ -18,25 +17,45 @@ class App extends React.Component {
       <div className="app">
         <Head>
           <title>Volleystream</title>
-          <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-          <link rel="stylesheet" href="/static/css/bulma.min.css" type="text/css" />
-          <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css" />
-          <link rel="stylesheet" href="/static/css/custom.css" type="text/css" />
-          <link rel="stylesheet" href="/static/css/devices.min.css" type="text/css" />
+          <meta
+            name="viewport"
+            content="initial-scale=1.0, width=device-width"
+          />
+          <link
+            rel="stylesheet"
+            href="/static/css/bulma.min.css"
+            type="text/css"
+          />
+          <link
+            rel="stylesheet"
+            href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+            type="text/css"
+          />
+          <link
+            rel="stylesheet"
+            href="/static/css/custom.css"
+            type="text/css"
+          />
+          <link
+            rel="stylesheet"
+            href="/static/css/devices.min.css"
+            type="text/css"
+          />
         </Head>
         <Nav />
         <Hero />
         <section className="section row-container">
-          <Logo name="osi" />
           <Logo name="ntnui" />
+          <Logo name="osvb" />
           <Logo name="forde" />
           <Logo name="bktromso" />
+          <Logo name="osi" />
+          <Logo name="koll" />
           <Logo name="oslovolley" />
           <Logo name="viking" />
           <Logo name="randaberg" />
           <Logo name="tvn" />
           <Logo name="tonsberg" />
-          <Logo name="koll" />
           <Logo name="blindheim" />
           <Logo name="blussuvoll" />
           <Logo name="askim" />
@@ -58,7 +77,6 @@ class App extends React.Component {
       </div>
     );
   }
-
 }
 
 export default App;
