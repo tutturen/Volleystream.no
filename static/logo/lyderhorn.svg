@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
     <title>logo/lyderhorn</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="logo/lyderhorn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"></g>
+    <g id="logo/lyderhorn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path-4" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero" points="16 88.6208057 16 175.843972 128.057083 230.043168 239.74865 175.843972 239.74865 88.6208057 127.874325 41"></polygon>
+        <text id="Lyderhorn" font-family="DINCondensed-Bold, DIN Condensed" font-size="60" font-weight="bold" letter-spacing="1.5" fill="#171E27">
+            <tspan x="27.35" y="144">Lyderhorn</tspan>
+        </text>
+        <text id="STIFTET-1994" font-family="DINCondensed-Bold, DIN Condensed" font-size="20" font-weight="bold" letter-spacing="0.5" fill="#171E27">
+            <tspan x="140.3" y="165">STIFTET 1994</tspan>
+        </text>
+    </g>
 </svg>
